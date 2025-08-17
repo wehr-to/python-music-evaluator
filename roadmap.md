@@ -2,7 +2,7 @@
 
 ## Phase 1: Setup & API Basics
 - [ ] Register a Spotify Developer app (get Client ID, Secret, Redirect URI).
-- [ ] Set up environment variables or `.env` file for secrets.
+- [X] Set up environment variables or `.env` file for secrets.
 - [ ] Install dependencies: `spotipy`, `pandas`, `numpy`, `matplotlib`, `python-dotenv`.
 - [ ] Authenticate with Spotify API and fetch top tracks.
 
