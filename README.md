@@ -2,3 +2,6 @@
 see how good or bad your music taste is
 
 ## how to use: 
+
+
+## License
