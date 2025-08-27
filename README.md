@@ -5,3 +5,4 @@ see how good or bad your music taste is
 
 
 ## License
+MIT
