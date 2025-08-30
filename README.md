@@ -6,5 +6,8 @@ see how good or bad your music taste is
 ## how to use: 
 you tell me
 
+## languages used: 
+- python
+
 ## License
 MIT
